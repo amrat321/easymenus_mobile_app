@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35910407776",
+    "project_id": "easymenus-3f994",
+    "storage_bucket": "easymenus-3f994.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35910407776:android:f7f60d6ac8048f13041505",
+        "android_client_info": {
+          "package_name": "com.amarsuther.easymenus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATi8eseR6CeLjWr3LTbipU6207zgj0UMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
